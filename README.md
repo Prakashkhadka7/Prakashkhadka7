@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakashkhadka7&label=Profile%20views&color=0e75b6&style=flat" alt="prakashkhadka7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakashkhadka7" alt="prakashkhadka7" /></a> </p>
 
 - 🔭 I’m currently working on **Procit B.V(IT Himalaya)**
 
