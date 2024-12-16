@@ -3,15 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakashkhadka7&label=Profile%20views&color=0e75b6&style=flat" alt="prakashkhadka7" /> </p>
 
-
-- 🔭 I’m currently working on **Procit B.V(IT Himalaya)**
-
-- 🌱 I’m currently learning **Flask,React,Node js,Postgres,**
-
-- 📝 I have blog on developemnt to write articles on [https://smartdev-blog.web.app/](https://smartdev-blog.web.app/)
-
-- 💬 Ask me about **Angular,Ionic**
-
 - 📫 How to reach me **prakashkhadka663@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
