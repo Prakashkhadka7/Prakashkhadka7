@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prakash Khadka</h1>
-<h3 align="center">A passionate frontend developer from Nepal. I’m a professional front-end developer with more than 3 years of experience in angular development.I have expertise in Ionic,React,Nodejs,Html,JS,Bootstrap,Angular material, postgres, CSS,SQL</h3>
+<!-- <h3 align="center">A passionate frontend developer from Nepal. I’m a professional front-end developer with more than 3 years of experience in angular development.I have expertise in Ionic,React,Nodejs,Html,JS,Bootstrap,Angular material, postgres, CSS,SQL</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakashkhadka7&label=Profile%20views&color=0e75b6&style=flat" alt="prakashkhadka7" /> </p>
 
-- 📫 How to reach me **prakashkhadka663@gmail.com**
+<!-- 📫 How to reach me **prakashkhadka663@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
